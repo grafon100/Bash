@@ -23,7 +23,7 @@ echo '================================='
 
 
 echo "Array2"
-#elemets array2 
+#elemets array2
 echo ${array2[@]}
 #index array2
 echo ${!array2[@]}
@@ -36,5 +36,3 @@ echo "size index [4] = ${#array2[4]}"
 echo '---------------------------------'
 array2[3]=-1
 echo ${array2[@]}
-
-
