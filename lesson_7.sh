@@ -23,7 +23,7 @@ echo '================================='
 
 
 echo "Array2"
-#elemets array2
+#elemets array2 
 echo ${array2[@]}
 #index array2
 echo ${!array2[@]}
